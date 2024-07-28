@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid blueviolet;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.btn-group a {
+    text-decoration: none;
+}
